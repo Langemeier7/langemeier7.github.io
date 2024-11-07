@@ -4,12 +4,12 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "This blog is to primarily track the performance of the Denver Broncos, with other sports stories in-between."
   },
   {
     "objectID": "posts/bradens-broncos-blog/index.html",
     "href": "posts/bradens-broncos-blog/index.html",
-    "title": "Braden's Blog",
+    "title": "Braden's Broncos Blog",
     "section": "",
     "text": "---\ntitle: \"Bo Nix. The Second Most Explosive QB in the NFL?\nauthor: \"Braden Langemeier\"\ndate: '2024-07-11'\ncategories: [broncos, nix, nfl]\nimage: \"image.png\"\nformat: \n  html:\n    code-fold: true\n---"
   },
